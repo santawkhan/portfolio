@@ -1,0 +1,10 @@
+.pro {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.awesome {
+    align-items: center;
+    margin-bottom: 2rem;
+}
